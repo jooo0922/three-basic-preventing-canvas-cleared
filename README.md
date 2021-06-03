@@ -1,0 +1,1 @@
+# three-basic-preventing-canvas-cleared
